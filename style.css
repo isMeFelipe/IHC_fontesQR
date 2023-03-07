@@ -1,0 +1,55 @@
+/*
+colors:
+
+1 - #F4998D
+2 - #F4796B
+3 - #F44E3F
+4 - #F40000
+5 - #090909 
+*/
+
+body{
+    background-color: #F4998D;
+}
+
+#cabecalho{
+    color: #090909 ;
+    background-color: #F4796B;
+    width: 700px;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.divs{
+    margin-top: 0px;
+}
+
+
+a{
+    text-decoration: underline;
+    color: #090909;
+}
+
+a:hover{
+    color: #0000FF;
+}
+.links{
+    width: max-content;
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+}
+
+#footerCss{
+    text-align: center;
+    background-color: #090909;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 1px;
+}
+
+h2{
+    font-size: 30pt;
+}
