@@ -20,6 +20,7 @@ body{
     background-color: #F4998D;
     overflow-x: hidden;
     margin-left: 10px;
+    height: max-content;
 }
 
 #cabecalho{
